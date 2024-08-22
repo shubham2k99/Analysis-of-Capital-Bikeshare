@@ -1,2 +1,5 @@
 # Analysis-of-Capital-Bikeshare
-This project conducts an exploratory analysis and predictive modeling of ride-hailing service data to assess the influence of weather conditions on pickup and drop-off counts. 
+This project conducts an exploratory analysis and predictive modeling of ride-hailing service data to assess the influence of weather conditions on pickup and drop-off counts. Various regression models including Linear Regression, Ridge Regression, LASSO, Elastic Net, and KNN Regressor were assessed for their effectiveness in predicting counts based on temperature, precipitation, and humidity as features.
+This project conducts an exploratory analysis and predictive modeling of ride-hailing service data to assess the influence of weather conditions on pickup and drop-off counts. Various regression models including Linear Regression, Ridge Regression, LASSO, Elastic Net, and KNN Regressor were assessed for their effectiveness in predicting counts based on temperature, precipitation, and humidity as features.
+
+Skills: Machine Learning · Python (Programming Language) · Statistical Data Analysis · Data Visualization · Pandas (Software) · Analytical Skills · Project Management
